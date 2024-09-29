@@ -7,6 +7,3 @@ Currently supported by all Nuke 15 sub-versions and Nuke 14.0v2.
 
 Tutorials to get you started in Z-Opticals V1
 https://www.youtube.com/watch?v=vxA-AjtWS60&list=PLPqEIUVfnnz6EsFKMyTAJES70OiOkK2fE
-
-A full investigation and my thought process to get to Z-Opticals
-https://www.youtube.com/watch?v=pmMu2xj9qk0
