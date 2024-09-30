@@ -1,4 +1,4 @@
-Z-Opticals v1.2 | nk 15 | nk14.0v2
+Z-Opticals v1.2 | nk 15.1 all v | nk14.0v2
 
 This gizmo will allow you to create three-dimensional chromatic aberration and bokeh in Nuke, similar to real optics.
 
